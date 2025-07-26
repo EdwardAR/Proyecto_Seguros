@@ -61,19 +61,19 @@ Creamos dashboards y reportes para diferentes niveles organizacionales:
 **Dashboard 1 - Vista General**
 <img width="1280" height="722" alt="Captura de pantalla 2025-07-24 000914" src="https://github.com/user-attachments/assets/922a0072-7e8f-4cb3-aacb-c285972fc199" />
 
-**Dashboard 2 - Análisis de Siniestros**
+**Dashboard 2**
 <img width="1279" height="724" alt="Captura de pantalla 2025-07-24 000951" src="https://github.com/user-attachments/assets/b67932ba-3660-4a73-a30f-2ca38d949509" />
 
-**Dashboard 3 - Segmentación de Clientes**
+**Dashboard 3**
 <img width="1277" height="719" alt="Captura de pantalla 2025-07-24 001130" src="https://github.com/user-attachments/assets/acf793c9-f26e-4a1f-9eb7-43f29f5c775a" />
 
-**Dashboard 4 - Rendimiento por Producto**
+**Dashboard 4**
 <img width="1275" height="717" alt="Captura de pantalla 2025-07-24 001154" src="https://github.com/user-attachments/assets/c63a4698-dec8-47fe-b75c-dc34d61aab21" />
 
-**Dashboard 5 - Análisis Geográfico**
+**Dashboard 5**
 <img width="1275" height="719" alt="Captura de pantalla 2025-07-24 001333" src="https://github.com/user-attachments/assets/f495d8e0-3e79-44e6-9e69-6d7ba15e732a" />
 
-**Dashboard 6 - Métricas de Agentes**
+**Dashboard 6**
 <img width="1277" height="715" alt="Captura de pantalla 2025-07-24 001410" src="https://github.com/user-attachments/assets/ccd368bb-0fee-438f-8473-63dc8d134b22" />
 <img width="1275" height="714" alt="Captura de pantalla 2025-07-24 001430" src="https://github.com/user-attachments/assets/7fe5b838-aad4-4aff-9d7a-9b5f4e077684" />
 <img width="1276" height="712" alt="Captura de pantalla 2025-07-24 001450" src="https://github.com/user-attachments/assets/0219b744-4dad-4fd9-985b-17d84692e4e5" />
