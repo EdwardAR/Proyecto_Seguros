@@ -1,4 +1,5 @@
 ## 📈 Proyecto BD_SEGUROS: Una Experiencia Transformadora
+<img width="1177" height="660" alt="bEGIN" src="https://github.com/user-attachments/assets/73debbc1-f524-46da-bb7f-384c88d8a6ba" />
 
 ### El Desafío del Trabajo en Equipo
 
@@ -70,6 +71,8 @@ El proyecto BD_SEGUROS me ha preparado para enfrentar desafíos similares en el 
 Estoy entusiasmado por las oportunidades que se presentan en el horizonte y listo para aplicar estos aprendizajes en nuevos contextos que permitan generar valor real para las organizaciones.
 
 ---
+![Imagen de WhatsApp 2025-07-18 a las 17 20 32_ec24efc2](https://github.com/user-attachments/assets/a5ebc95f-7425-4811-89eb-50c8fb6a654f)
+
 
 *Esta experiencia representa no solo un logro académico, sino el inicio de una trayectoria profesional enfocada en transformar datos en decisiones estratégicas que impulsen el crecimiento empresarial.*
 
